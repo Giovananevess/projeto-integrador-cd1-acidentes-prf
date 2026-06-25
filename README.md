@@ -41,6 +41,22 @@ Desenvolver um observatório de indicadores de acidentes de trânsito utilizando
 * Acidentes por rodovia.
 * Acidentes por período do dia.
 
+## Dashboard Power BI
+
+O dashboard desenvolvido apresenta:
+
+- Total de acidentes
+- Total de mortos
+- Total de feridos
+- Total de veículos
+- Acidentes por UF
+- Principais causas dos acidentes
+- Condições meteorológicas
+- Classificação dos acidentes
+
+O arquivo do dashboard encontra-se na pasta:
+
+powerbi/dashboard_acidentes_prf.pbix
 ---
 
 ## Fonte dos Dados
